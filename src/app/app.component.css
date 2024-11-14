@@ -1,0 +1,6 @@
+h1 {
+    font-size: 28px; /* Font size for the heading */
+    color: #007bff; /* Bright blue color for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+    text-align: center;
+}
